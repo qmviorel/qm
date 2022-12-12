@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-12T15:21:20.357Z" agent="5.0 (Windows)" version="20.6.2" etag="eVfz-8yR_Kd2ye-AjafJ" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-12T15:21:36.752Z" agent="5.0 (Windows)" version="20.6.2" etag="Jr9HBI7XD1LJEL0tKnKO" type="github">
   <diagram id="ChbMOUOoiI2AEmgIxCO1" name="Page-1">
     <mxGraphModel dx="1182" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -257,12 +257,6 @@
             <mxPoint x="194.39999999999998" y="235" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A7izLA39A1ClkOa7vNC_-51" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="670" y="570" as="sourcePoint" />
-            <mxPoint x="620" y="570" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="A7izLA39A1ClkOa7vNC_-52" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.671;exitY=0.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="A7izLA39A1ClkOa7vNC_-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="170" as="sourcePoint" />
@@ -278,12 +272,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="101.80000000000001" as="sourcePoint" />
             <mxPoint x="240" y="51.80000000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="A7izLA39A1ClkOa7vNC_-56" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="760" as="sourcePoint" />
-            <mxPoint x="470" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <object label="sw retea lan Tehnoworld" id="A7izLA39A1ClkOa7vNC_-57">
